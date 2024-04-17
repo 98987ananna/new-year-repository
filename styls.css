@@ -1,0 +1,28 @@
+.first{
+    position: relative;
+    /* display: inline-block; */
+   margin: 30px 140px
+   }
+.text{ 
+position: absolute;
+ bottom: 0px; 
+ top: 0px;
+font-size: 25px;
+color: white;
+background-color: rgba(0, 0, 0, 0.5);
+padding-right:480px;
+padding-bottom: 150px;
+padding-left: 500px;
+padding-top: 200px;
+
+}
+  .New{ 
+  margin-bottom: 20px; 
+ text-align: center;
+ }  
+.year{
+  margin-top: 20px;
+   text-align: center;
+
+}   
+
