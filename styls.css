@@ -1,28 +1,94 @@
 .first{
-    position: relative;
-    /* display: inline-block; */
-   margin: 30px 140px
+     position: relative; 
+  margin-right: 100px;
+margin-left: 100px;
+margin-top: 80px;
+margin-bottom:10px ;
    }
 .text{ 
 position: absolute;
- bottom: 0px; 
- top: 0px;
+  bottom: 2px; 
+  top: 4px; 
 font-size: 25px;
 color: white;
 background-color: rgba(0, 0, 0, 0.5);
-padding-right:480px;
-padding-bottom: 150px;
-padding-left: 500px;
-padding-top: 200px;
-
+padding-right:490px;
+padding-bottom: 60px;
+padding-left: 480px;
+padding-top: 190px;
 }
   .New{ 
-  margin-bottom: 20px; 
- text-align: center;
+  margin-bottom: 5px; 
+  text-align: center;
  }  
 .year{
-  margin-top: 20px;
+  margin-top: 10px;
    text-align: center;
 
-}   
+}
+/* section category    */
+.off{
+  border: 1068px 800px;
+   display: block; 
+  padding-top: 80px;
+  width: 1068px 772px;
+  margin-bottom: 50px; 
+  margin-left: 290px;
+}
+.catagory{
+   padding-left: 250px;
+}
+.school{
+    font-size: 50px;
+   color: red;
+}
+.better{
+    color: red;
+}
+.all{
+    font-size: 30px;
+}
+/* section new year party */
+.victory{
+position: absolute;
+height: 800px;
+width: 1338px;
+ margin: 30px 100px ;}
+.gro{
+    position:relative ;
+    left: 960px;
+    top: 200px;}
+.party{
+    position: relative;
+  bottom: 470px; 
+    font-size: 35px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+     padding-top: 120px;  
+  margin: 30px 100px;
+     height: 680px; 
+    width: 1344px; 
+}
+.list{ 
+       font-size: 30px;
+   /* background-color: #00ffff; */
+text-align: center;
+height: 300px;
+width: 1220px;
+margin-left: 30px;
+margin-bottom: 50px;
+padding-top: 100px;
+color: black;
+font-size: 45px;
+background-color:rgba(100, 50, 10, 0.3)
 
+    }
+.color{
+    color: red;
+}
+.join{
+color: white;
+background: red;
+height: 50px;
+width:120px ; font-size: 20px;
+}
