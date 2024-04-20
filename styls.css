@@ -71,7 +71,7 @@ width: 1338px;
 }
 .list{ 
        font-size: 30px;
-   /* background-color: #00ffff; */
+ 
 text-align: center;
 height: 300px;
 width: 1220px;
@@ -91,4 +91,103 @@ color: white;
 background: red;
 height: 50px;
 width:120px ; font-size: 20px;
+}  
+/* shopping section */
+.shopping{
+    height: 1163px;
+    width: 1320px;margin: 100px;
+    font-size: 20px;
+}
+.gift{
+    color: red;
+}
+/* last section */
+ .email{ 
+   margin-left: 500px;
+   font-size: 34px;
+   margin-top: 20px;
+   margin-right: 100px;
+
+}
+.news{ 
+ 
+    margin-left: 400px;
+font-size: 40px;
+}
+ .letter{ 
+    margin-left: 150px;
+    font-size: 18px;
+ 
+    
+} 
+ .high{ height: 450px;
+    width: 1300px;  
+     padding-left: 10px;
+     padding-bottom: 20px;
+     padding-top: 10px;
+   margin-left: 100px;
+   background-color: rgba(100, 50, 10, 0.3);
+    
+    
+   
+}
+.Subscribe{
+    height: 52px;
+    width: 130px;
+    font-size: 18px; 
+    padding-left: 0.4px;
+   border: none;
+ 
+   background-color: red;
+}
+ .emails{ 
+    height: 50px;
+    width: 240px;
+    font-size: 20px;
+   border: none;
+   margin-left: 400px;
+   padding-right: 0.5px;
+}
+footer{
+ height: 400px;
+ width: 1300px;
+  font-size: 30px;
+  background-color: black;
+  padding: 100px;
+  margin-top: 60px;
+  color: white;
+}
+
+
+ 
+.left{
+  float: left;
+}
+.right{
+  float: right; 
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.footer-line{
+  clear: both;
+  border-top: 4px;
+  color:white;
+  margin-top: 10px;
+  border-color: white;
+}
+.image{
+  margin-top: 90px;
+  text-align: center;
+ 
+} 
+
+.lefts{
+  float: left; 
+   margin-top: 40px; 
+  
+}
+.rights{
+  float: right; 
+ 
+   margin-top: 40px; 
 }
